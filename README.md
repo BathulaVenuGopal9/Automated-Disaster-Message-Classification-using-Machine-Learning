@@ -1,0 +1,2 @@
+# Automated-Disaster-Message-Classification-using-Machine-Learning
+Developed a ML–based text classification system to identify disaster-related messages using TF-IDF feature extraction and a Decision Tree classifier. The project focuses on transforming unstructured text into structured numerical features, evaluating model performance, and preparing reusable model artifacts for reliable and consistent inference.
